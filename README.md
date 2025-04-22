@@ -1,0 +1,5 @@
+COVER LETTER TU MINH HUNG
+
+My name is Tu Minh Hung, a final-year student majoring in Computer Science at Duy Tan University. With a solid foundation in web development and a strong passion for building practical applications, I am excited to apply for the Software Engineer Intern position at your company – a place where I believe I can learn, grow, and contribute effectively through both technical expertise and a responsible working attitude.
+
+I have participated in several real-world projects, most notably in the role of Intern Developer in the “Tools for Developers” project using Next.js and TypeScript. I was responsible for developing reusable components, handling performance optimization, and enhancing user experience. My greatest strength lies in building and designing back-end APIs using Java Spring Boot – a technology I specialized in for the Car Shop project, where I developed RESTful APIs, integrated MySQL databases, handled secure login systems, and implemented full product and order management features. I also have hands-on experience with responsive UI development using React, Next.js, and Tailwind CSS.
